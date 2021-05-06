@@ -21,3 +21,28 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/mooc-java-programming-i/part03-Part03_19.IndexWasNotFound/target/
+/mooc-java-programming-i/part03-Part03_21.PrintNeatly/target/
+/mooc-java-programming-i/part03-Part03_22.PrintInStars/target/
+/mooc-java-programming-i/part03-Part03_23.PrintThrice/target/
+/mooc-java-programming-i/part03-Part03_24.IsItTrue/target/
+/mooc-java-programming-i/part03-Part03_25.Login/target/
+/mooc-java-programming-i/part03-Part03_26.LineByLine/target/
+/mooc-java-programming-i/part03-Part03_27.AVClub/target/
+/mooc-java-programming-i/part03-Part03_31.NameOfTheOldest/target/
+/mooc-java-programming-i/part04-Part04_01.YourFirstAccount/target/
+/mooc-java-programming-i/part04-Part04_02.YourFirstBankTransfer/target/
+/mooc-java-programming-i/part04-Part04_03.DogAttributes/target/
+/mooc-java-programming-i/part04-Part04_04.Room/target/
+/mooc-java-programming-i/part04-Part04_05.Whistle/target/
+/mooc-java-programming-i/part04-Part04_08.DecreasingCounter/target/
+/mooc-java-programming-i/part04-Part04_09.Debt/target/
+/mooc-java-programming-i/part04-Part04_11.Film/target/
+/mooc-java-programming-i/part04-Part04_10.Song/target/
+/mooc-java-programming-i/part04-Part04_12.Gauge/target/
+/mooc-java-programming-i/part04-Part04_13.Agent/target/
+/mooc-java-programming-i/part04-Part04_14.Multiplier/target/
+/mooc-java-programming-i/part04-Part04_15.NumberStatistics/target/
+/mooc-java-programming-i/part03-Part03_18.Swap/target/
+/mooc-java-programming-i/part03-Part03_32.PersonalDetails/target/
+/mooc-java-programming-i/part03-Part03_30.AgeOfTheOldest/target/

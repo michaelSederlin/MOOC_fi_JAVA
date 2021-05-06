@@ -8,6 +8,10 @@ public class ArrayPrinter {
     }
 
     public static void printNeatly(int[] array) {
-        // Write some code in here
+        
+        for (int ii = 0; ii < array.length-1; ii++) {
+            System.out.print(array[ii] + ",");
+        }
+        System.out.print(array[array.length-1]);
     }
 }
